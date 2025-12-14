@@ -1,12 +1,21 @@
-# React + Vite
+#HelpMate - The Emergency Tracker
+This is web app build for protect people from difficult situation,
+Here are the details about app , why it is call Emergency Tracker
+SoS button - This is one click button, in one click it send your location to your close person and then they can track you through google map.
+and many more feature in it for other purpose but same intension .
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#for backend/ server on
+command -> cd server
+           node server.js
+#for forentend
+command -> npm run dev
 
-Currently, two official plugins are available:
+#Here view of web app
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
