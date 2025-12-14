@@ -1,8 +1,8 @@
 #HelpMate - The Emergency Tracker
-This is web app build for protect people from difficult situation,
-Here are the details about app , why it is call Emergency Tracker
-SoS button - This is one click button, in one click it send your location to your close person and then they can track you through google map.
-and many more feature in it for other purpose but same intension .
+This is web app build for protect people from difficult situation,<br>
+Here are the details about app , why it is call Emergency Tracker<br>
+SoS button - This is one click button, in one click it send your location to your close person and then they can track you through google map.<br>
+and many more feature in it for other purpose but same intension .<br>
 <br>
 <br>
 #for backend/ server on <br>
