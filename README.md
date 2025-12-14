@@ -17,6 +17,7 @@ command -> npm run dev<br>
 ![image alt](https://github.com/Rajiv-mandal04/Helpmate/blob/main/Screenshot%202025-12-04%20120445.png)
 ![image alt](http://github.com/Rajiv-mandal04/Helpmate/blob/main/Screenshot%202025-12-04%20120445.png)
 ![image alt](https://github.com/Rajiv-mandal04/Helpmate/blob/main/Screenshot%202025-12-04%20120521.png)
+![image alt](https://github.com/Rajiv-mandal04/Helpmate/blob/main/Screenshot%202025-12-04%20120500.png)
 ![image alt](https://github.com/Rajiv-mandal04/Helpmate/blob/main/Screenshot%202025-12-04%20120533.png)
 ![image alt](https://github.com/Rajiv-mandal04/Helpmate/blob/main/Screenshot%202025-12-04%20115342.png)
 ![image alt](https://github.com/Rajiv-mandal04/Helpmate/blob/main/Screenshot%202025-12-04%20115407.png)
